@@ -8,6 +8,8 @@ yield array[i]
   i = i +1
 end
 array
+else
+    puts "Hey! No block was given!"
 end
 
 # call your method here!
